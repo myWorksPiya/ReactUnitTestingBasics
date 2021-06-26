@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactUnitTestingBasics/static/css/main.65cc4cc3.chunk.css",
+    "main.js": "/ReactUnitTestingBasics/static/js/main.7f7bc5f5.chunk.js",
+    "main.js.map": "/ReactUnitTestingBasics/static/js/main.7f7bc5f5.chunk.js.map",
+    "runtime-main.js": "/ReactUnitTestingBasics/static/js/runtime-main.c09718de.js",
+    "runtime-main.js.map": "/ReactUnitTestingBasics/static/js/runtime-main.c09718de.js.map",
+    "static/js/2.660531c8.chunk.js": "/ReactUnitTestingBasics/static/js/2.660531c8.chunk.js",
+    "static/js/2.660531c8.chunk.js.map": "/ReactUnitTestingBasics/static/js/2.660531c8.chunk.js.map",
+    "static/js/3.2b2a2924.chunk.js": "/ReactUnitTestingBasics/static/js/3.2b2a2924.chunk.js",
+    "static/js/3.2b2a2924.chunk.js.map": "/ReactUnitTestingBasics/static/js/3.2b2a2924.chunk.js.map",
+    "index.html": "/ReactUnitTestingBasics/index.html",
+    "static/css/main.65cc4cc3.chunk.css.map": "/ReactUnitTestingBasics/static/css/main.65cc4cc3.chunk.css.map",
+    "static/js/2.660531c8.chunk.js.LICENSE.txt": "/ReactUnitTestingBasics/static/js/2.660531c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c09718de.js",
+    "static/js/2.660531c8.chunk.js",
+    "static/css/main.65cc4cc3.chunk.css",
+    "static/js/main.7f7bc5f5.chunk.js"
+  ]
+}
